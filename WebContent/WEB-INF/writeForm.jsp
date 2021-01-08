@@ -23,7 +23,7 @@
 	</form>
 	
 	<br>
-	<a href="">리스트 바로 가기</a>
+	<a href="/phonebook2/pbc">리스트 바로 가기</a>
 	
 	
 </body>
